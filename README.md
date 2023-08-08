@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Onenemanuel
-- 👀 I’m interested in Telecommunications
-- 🌱 I’m currently learning voice over internet VoIP system development
-- 💞️ I’m looking to collaborate on VoIP and android projects
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning app development in flutter
+- 💞️ I’m looking to collaborate on open source projects
 - 📫 Reach me at onenemanuel@gmail.com
 
 <!---
